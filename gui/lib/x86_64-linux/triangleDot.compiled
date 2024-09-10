@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/run/current-system/sw/bin/fpc" Date="1"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -gw3 -gl -l -vewnhibq -Fi/home/svinoshpatel/Projects/labatap2/gui/lib/x86_64-linux -Fu/nix/store/a214d5k022chaf0bh7kg2fk44ff2wsda-lazarus-gtk2-3.2-0/share/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/nix/store/a214d5k022chaf0bh7kg2fk44ff2wsda-lazarus-gtk2-3.2-0/share/lazarus/lcl/units/x86_64-linux -Fu/nix/store/a214d5k022chaf0bh7kg2fk44ff2wsda-lazarus-gtk2-3.2-0/share/lazarus/components/freetype/lib/x86_64-linux -Fu/nix/store/a214d5k022chaf0bh7kg2fk44ff2wsda-lazarus-gtk2-3.2-0/share/lazarus/components/lazutils/lib/x86_64-linux -Fu/nix/store/a214d5k022chaf0bh7kg2fk44ff2wsda-lazarus-gtk2-3.2-0/share/lazarus/packager/units/x86_64-linux -Fu/home/svinoshpatel/Projects/labatap2/gui/ -FU/home/svinoshpatel/Projects/labatap2/gui/lib/x86_64-linux/ -FE/home/svinoshpatel/Projects/labatap2/gui/ -o/home/svinoshpatel/Projects/labatap2/gui/triangleDot -dLCL -dLCLgtk2 triangleDot.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
